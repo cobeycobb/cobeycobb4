@@ -1,11 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
 
-/*
-	Stellar by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -98,13 +94,16 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
+
+
 	body {
-		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #30b396 15%, #402565 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #30b396 15%, #402565 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #30b396 15%, #402565 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #30b396 15%, #402565 85%);
+		background-color: #935d7d;
+		background-image: url("images/overlay3.png"), -moz-linear-gradient(45deg, #30b396 15%, #2e3984 85%);
+		background-image: url("images/overlay3.png"), -webkit-linear-gradient(45deg, #30b396 15%, #2e3984 85%);
+		background-image: url("images/overlay3.png"), -ms-linear-gradient(45deg, #30b396 15%, #2e3984 85%);
+		background-image: url("images/overlay3.png"), linear-gradient(45deg, #30b396 15%, #2e3984 85%);
 	}
+
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
@@ -330,6 +329,14 @@ input, select, textarea {
 	hr {
 		border-bottom-color: rgba(255, 255, 255, 0.35);
 	}
+
+
+
+
+
+
+
+
 
 /* Row */
 
@@ -1977,7 +1984,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #8cc9f0;
+			background-color: #56cbb2;
 			color: #ffffff !important;
 			box-shadow: none;
 		}
@@ -1987,7 +1994,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #9acff2;
+				background-color: #a8e3d6;
 			}
 
 			input[type="submit"].primary:active,
@@ -2006,6 +2013,10 @@ input, select, textarea {
 				color: #ffffff !important;
 			}
 
+
+
+
+			
 /* Form */
 
 	form {
@@ -3293,7 +3304,7 @@ input, select, textarea {
 		width: 64em;
 		max-width: calc(100% - 4em);
 		padding: 1em;
-		background-color: #f7f7f7;
+		background-color: #e8e8e8;
 		border-top-left-radius: 0.25em;
 		border-top-right-radius: 0.25em;
 		cursor: default;
@@ -3483,7 +3494,7 @@ input, select, textarea {
 			#main input[type="button"].primary,
 			#main button.primary,
 			#main .button.primary {
-				background-color: #8cc9f0;
+				background-color: #56cbb2;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
@@ -3493,7 +3504,7 @@ input, select, textarea {
 				#main input[type="button"].primary:hover,
 				#main button.primary:hover,
 				#main .button.primary:hover {
-					background-color: #9acff2;
+					background-color: #a8e3d6;
 				}
 
 				#main input[type="submit"].primary:active,

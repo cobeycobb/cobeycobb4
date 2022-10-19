@@ -123,8 +123,12 @@ body {
 
 	background-color: #2e3141;
 		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.6), rgba(46, 49, 65, 0.6)), url("images/nebula6.jpeg");
-		background-size: auto,
- cover;
+	/*	background-size: auto,
+ cover; */
+
+
+ background-size: auto;
+
 	background-attachment: fixed,
  fixed; 
 		background-position: center,
@@ -151,7 +155,7 @@ body {
 /* Type */
 
 	body {
-		background-color: #2e3984;
+		background-color: #2b2b2b;
 		color: rgba(255, 255, 255, 0.80);
 	}
 

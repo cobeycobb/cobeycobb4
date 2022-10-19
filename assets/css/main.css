@@ -127,7 +127,7 @@ body {
  cover; */
 
 
- background-size: auto;
+ background-size: cover;
 
 	background-attachment: fixed,
  fixed; 
